@@ -1,0 +1,4 @@
+global-include *.yaml
+
+include README.md
+include requirements.txt

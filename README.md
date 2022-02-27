@@ -1,5 +1,5 @@
 # Overview
-Tool to run workflows/pipelines on your local machine
+Tool to run workflows/pipelines on your local machine. The goal is to define a generic model of a pipeline or workflow and to run jenkins pipelines, github actions workflows, azure pipelines, etc. by tranforming their respective pipeline code to the standardized model and execute it.
 
 # Usage
 ```shell
